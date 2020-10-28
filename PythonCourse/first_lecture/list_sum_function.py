@@ -7,5 +7,6 @@ def list_to_sum(list_to_sum_input):
     return sum_to_return
 
 
-sum_answer = list_to_sum([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
-print(sum_answer)
+if __name__ == "__main__":
+    sum_answer = list_to_sum([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+    print(sum_answer)
