@@ -9,10 +9,13 @@ def function_dice_sides():
 
 def function_random_number_from_dice_list(choose_sides):
     rolled_dice = random.choice(choose_sides)
-    print("Your random numbers is ", rolled_dice)
+    return rolled_dice
 
 
-function_random_number_from_dice_list(function_dice_sides())
+if __name__ == '__main__':
+    dice_sides = function_dice_sides()
+    rolled_dice = function_random_number_from_dice_list(dice_sides)
+    print(f'Your random numbers is {rolled_dice}')
 
 # define a function that takes in a number of sides in dice as an argument
 # and returns a list that has all numbers of dice
