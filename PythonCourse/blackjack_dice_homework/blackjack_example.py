@@ -27,6 +27,7 @@ def draw_card(deck):
     return card
 
 
+
 def print_hands(dealer_hand_local, player_hand_local):
     print("Dealer has", dealer_hand_local)
     print("Player has", player_hand_local)
