@@ -75,4 +75,19 @@ small_image.save("ros_crystal_small_easy.png")
 # easy: make for loops to take one pixel from every 8x8 pixels from
 # cropped_np_gray_image_int and save it right place in small_image array,
 # make picture from array, and save file as ros_crystal_small_easy.png
-# return this image and code to moodle
+# for x in range(0, 632, 8):
+#     for y in range(0, 632, 8):
+#         maximum = 0
+#         for i in range(x, x + 7):
+#             for j in range(y, y + 7):
+#                 pixel = cropped_np_gray_image_int[i, j]
+#                 if pixel > maximum:
+#                     maximum = pixel
+#         np_small_image_int[int(x / 8), int(y / 8)] = maximum
+#
+# small_image = Image.fromarray(np_small_image_int)
+#
+# small_image.save("ros_crystal_small_normal.png")
+
+# normal: Same that easy, but now look every 8x8 pixels and save brightest
+# to small_image_array, and use ros_crystal_small_normal.png

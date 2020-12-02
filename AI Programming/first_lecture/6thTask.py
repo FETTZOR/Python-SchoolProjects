@@ -12,8 +12,8 @@ from skimage.filters import try_all_threshold
 
 astronaut = skimage.data.astronaut()
 rocket = skimage.data.rocket()
-pixel = rocket[0:427,0:512]
-pixel2 = astronaut[0:427,0:512]
+pixel = rocket[0:427, 0:512]
+pixel2 = astronaut[0:427, 0:512]
 #
 # merge1 = np.concatenate((pixel, pixel2), axis=1)
 
