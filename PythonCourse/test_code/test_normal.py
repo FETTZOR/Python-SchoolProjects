@@ -69,3 +69,4 @@ def test_ask_from_user():
 # Easy + make also tehst for triangle_side_asker() and ask_from_user
 #
 # test different cases.
+

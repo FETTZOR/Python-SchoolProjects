@@ -1,5 +1,7 @@
 #! /usr/bin/python3
 from math import sqrt
+import pytest
+import mock
 
 
 def ask_from_user(question, valid_answer):
@@ -35,18 +37,21 @@ def side_calculation(side1, side2, task):
         side = sqrt(side2 ** 2 - side1 ** 2)
     return side
 
-def asking_area():
-    question2 = "Do you want to also know the area of tringle, yes or no "
-    question2_answers = ["yes", "no"]
-    user_wants_to_know_area = ask_from_user(question2, question2_answers)
 
-    if user_wants_to_know_area == "yes":
+def asking_area(answer):
+
+    if answer == "yes":
         sides = [side1_from_user, side2_from_user, answer1]
         sides.sort()
         area = (sides[0] * sides[1]) / 2
         print("area of the triangle is", area)
     else:
         print("ok, have a good day")
+
+
+def calc_triangle_area(side1, side2):
+    return (side1 * side2) / 2
+
 
 if __name__ == '__main__':
     question1 = "You can calculate hypotenuse or leg of a right triangle, answer: hypotenuse or leg "
@@ -64,6 +69,10 @@ if __name__ == '__main__':
 
     print("Lenght of asked ", task, " is ", answer1)
 
-    area_of_triangle = asking_area()
+    question2 = "Do you want to also know the area of tringle, yes or no "
+    question2_answers = ["yes", "no"]
 
+    user_wants_to_know_area = ask_from_user(question2, question2_answers)
+
+    asking_area(user_wants_to_know_area)
 
