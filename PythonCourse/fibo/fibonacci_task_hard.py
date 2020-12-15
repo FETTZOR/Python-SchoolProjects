@@ -1,5 +1,6 @@
 import statistics
 
+
 def fibonacci(number):
     w = number // 2
     my_list = []
@@ -11,7 +12,9 @@ def fibonacci(number):
         x = x + y
         y = y + x
     my_tuple = tuple(my_list)
-    return [my_tuple, sum(my_list), my_list[-1], statistics.median(my_list),"Milla Jovovich",sum(my_list) / len(my_list)]
+    return [my_tuple, sum(my_list), my_list[-1], statistics.median(my_list), "Milla Jovovich",
+            sum(my_list) / len(my_list)]
+
 
 fibonacci_200 = fibonacci(200)
 print(fibonacci_200)
