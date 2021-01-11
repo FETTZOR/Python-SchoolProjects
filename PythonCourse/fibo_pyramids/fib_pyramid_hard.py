@@ -1,6 +1,7 @@
 import sys
 import statistics
 
+
 def fibonacci(number):
     n_1, n_2, n_3, my_list = 1, 0, 0, []
     series = 0
@@ -17,16 +18,14 @@ def fibonacci(number):
                 average = round(sum(my_list) / len(my_list))
                 str1 = " "
                 d = str1.join(map(str, my_list))
-                print(f'series until {series}'',['+d, end=f"],{summa},{median},{average}")
+                print(f'series until {series}'',[' + d, end=f"],{summa},{median},{average}")
             print()
 
     return my_list
 
 
-
 fibonacci(100)
 if __name__ == '__main__':
-
     original_stdout = sys.stdout
 
     print('')

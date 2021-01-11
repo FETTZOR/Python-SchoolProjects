@@ -17,9 +17,9 @@ def fibonacci(number):
             print()
     return my_list
 
+
 fibonacci(100)
 if __name__ == '__main__':
-
     original_stdout = sys.stdout
 
     print('')
@@ -27,4 +27,3 @@ if __name__ == '__main__':
         sys.stdout = f
         fibonacci(100)
         sys.stdout = original_stdout
-
