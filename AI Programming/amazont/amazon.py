@@ -10,10 +10,22 @@ data1.to_html('taskreallife1.html')
 # # 2
 # data2 = data.sort_values(['User Rating', 'Reviews'], ascending=[False, False])
 # print(data2.head(10))
-# data2.to_html('taskreallife2.htm')
+# data2.to_html('taskreallife2.html')
 #
-# new = data[['Genre', "Price"]].groupby("Genre").mean()
-# # new = 14.84/10.85
+fic = data[['Genre', "Price"]].groupby("Genre").mean()
+print(fic)
+# print(new)
+# my_list = [new]
+# print(my_list)
+fiction = fic.iloc[0].tolist()
+fiction = ("".join(map(str, fiction)))
+print(fiction)
+non_fiction = fic.iloc[1].tolist()
+non_fiction = ("".join(map(str, non_fiction)))
+print(non_fiction)
+# new = 14.84/10.85
+answer = float(non_fiction) / float(fiction)
+print(round(answer, 2))
 #
 # new.to_html('taskreallife3.html')
 # file1 = open("myfile.txt", "w")
@@ -24,4 +36,4 @@ data1.to_html('taskreallife1.html')
 five = data[['Genre', "Author"]].groupby("Author").count()
 five = five.sort_values(by='Genre', ascending=False)
 five.to_html('taskreallife5.html')
-print(five)
+# print(five)
