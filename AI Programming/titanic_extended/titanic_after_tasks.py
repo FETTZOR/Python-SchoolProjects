@@ -16,7 +16,7 @@ data = data.rename(columns={"PassengerId": "id"})
 data = data[["id", "Pclass", "Sex", "Age", "Age_wiki", "Class", "SibSp", "Parch", "Fare",
              "Cabin", "Embarked", "Hometown", "Boarded",
              "Destination", "Lifeboat", "WikiId", "Survived"]]
-# print(data.head())
+print(data.head())
 data.to_csv('Titanic_extended_2.csv', index=False)
 data["Age"].mean()
 data["Fare"].median()

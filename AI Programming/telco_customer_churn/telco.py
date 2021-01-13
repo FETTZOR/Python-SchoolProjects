@@ -7,6 +7,7 @@ print(data[['gender', "MonthlyCharges"]].groupby("gender").mean())
 # data.head(3)
 
 sum_of_data = data[['Partner', "Churn"]].groupby("Partner").count().sum()
+print(sum_of_data)
 # print(data[['Partner', "Churn"]].groupby("Partner").count())
 # sum_of_data_one_percent = sum_of_data / 100
 # sum_of_data_no = (sum_of_data - 3402) / sum_of_data_one_percent
