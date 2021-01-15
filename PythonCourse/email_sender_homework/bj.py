@@ -4,6 +4,8 @@ import email_sender_easy as mail
 from datetime import datetime
 import smtplib
 from email.message import EmailMessage
+import mimetypes
+
 
 def make_a_new_deck():
     deck_of_cards = [i for i in range(52)]
@@ -51,8 +53,6 @@ def ask_if_player_wants_card(player_hand_now):
     return answer_local
 
 
-
-
 def game_end():
     end_game = datetime.now()
 
@@ -67,7 +67,10 @@ if __name__ == '__main__':
     print("Game started =", starting_time)
     time_list = [starting_time]
     start_list_without_brackets = ', '.join(time_list)
+    games_total = 0
+    wins = 0
     while True:
+
         deck = make_a_new_deck()
         dealer_hand = []
         player_hand = []
@@ -94,22 +97,27 @@ if __name__ == '__main__':
 
             elif calculate_hand(dealer_hand) > 21:
                 print("dealer went over, you win")
+                wins = wins + 1
                 break
                 print("Dealer wins!")
                 break
             else:
                 print("Player wins!")
+                wins = wins + 1
                 break
         new_game = input("Do you want new game, press enter. If you want to end type:no ")
+        games_total = games_total + 1
         if new_game == "no":
             gmail_user = "hhttajapai@gmail.com"
 
-            with open("pw.txt") as filereader:
-                gmail_password = filereader.read()
+            # with open("pw.txt") as filereader:
+            gmail_password = 'Breathe1337!'
 
-            to = ['hhttajapai@gmail.com']
-            subject = f'game started {start_list_without_brackets} game ended {game_end()}'
-            body = ''
+            to = ['TurevKonstantin@gmail.com']
+            subject = f'hello'
+            body = f'game started {start_list_without_brackets}\n game ended {game_end()}\n' \
+                   f'games total: {games_total}' \
+                   f'\nwins total: {wins}'
 
             msg = EmailMessage()
             msg.set_content(body)

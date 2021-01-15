@@ -26,3 +26,4 @@ with open('random_values.csv', mode='r') as csv_file:
         print(f"\t index {row['index']} range {row['range']} value {row['value']}")
         line_count += 1
     print(f'Processed {line_count} lines')
+# then data lines
