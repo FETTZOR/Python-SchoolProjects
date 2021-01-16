@@ -3,7 +3,6 @@ import random
 from datetime import datetime
 import csv
 import sender
-import numpy as np
 
 
 def game_start():
@@ -67,17 +66,18 @@ def ask_if_player_wants_card(player_hand_now):
 
 if __name__ == '__main__':
     game_info_for_email_subject = ["Game Started: ", game_start()]
-    new_val = []
+
     games_total = 0
     wins = 0
-    count_of_player_hands = 0
-    win_val = []
+    win_hands = 1
+    wins_lost_list = []
     while True:
         deck = make_a_new_deck()
         dealer_hand = []
         winner = []
         player_hands = [[]]
         dealer_hand.append(draw_card(deck))
+        player_hands.append(draw_card(deck))
         player_hands[0].append(draw_card(deck))
         player_hands[0].append(draw_card(deck))
         print(deck)
@@ -103,7 +103,6 @@ if __name__ == '__main__':
                 print_hands(dealer_hand, player_hands)
                 if calculate_hand(player_hands[i]) > 21:
                     print("you went over, you lose the hand")
-
                     hands_went_over[i] = True
             if all(hands_went_over) == True:
                 print("you lose all hands")
@@ -115,20 +114,13 @@ if __name__ == '__main__':
 
                 if calculate_hand(dealer_hand) > 21:
                     print("dealer went over, you win")
-                    wins += 1
                 else:
                     for i in range(len(player_hands)):
                         if calculate_hand(dealer_hand) >= calculate_hand(player_hands[i]):
                             print("Dealer wins the hand!")
-                            count_of_player_hands += 1
                         else:
                             print("Player wins the hand!")
-                            count_of_player_hands += 1
                             wins += 1
-            print("wins", wins)
-            win_val.append(wins)
-            new_val.append(count_of_player_hands)
-            games_total += 1
             new_game = input("Do you want new game, press enter. If you want to end type:no")
             if new_game == "no":
                 game_info_for_email_subject.append("Game Ended")
@@ -140,16 +132,18 @@ if __name__ == '__main__':
                 time_without_brackets = ' '.join(game_info_for_email_subject)
                 lines = games_total
 
+                # writing csv
                 with open('game_information.csv', mode='w') as random_val_file:
                     random_writer = csv.writer(random_val_file, delimiter=',')
-                    random_writer.writerow(['game', 'played hands overall', 'wins'])
+                    random_writer.writerow(['game', 'played hands', 'wins'])
 
+                # data lines
                 with open('game_information.csv', mode='a') as random_val_file:
                     random_writer = csv.writer(random_val_file, delimiter=',')
-                    o = 0
+                    a = 0
                     for a in range(lines):
-                        random_writer.writerow([a, new_val[o], win_val[o]])
-                        o += 1
+                        u = wins
+                        random_writer.writerow([a, win_hands, wins])
 
                 sender.email_sender(time_without_brackets, "hello")
-                quit()
+                break
