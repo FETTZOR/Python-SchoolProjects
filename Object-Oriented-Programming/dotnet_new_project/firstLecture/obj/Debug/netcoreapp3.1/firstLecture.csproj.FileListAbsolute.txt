@@ -1,0 +1,13 @@
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\bin\Debug\netcoreapp3.1\firstLecture.exe
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\bin\Debug\netcoreapp3.1\firstLecture.deps.json
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\bin\Debug\netcoreapp3.1\firstLecture.runtimeconfig.json
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\bin\Debug\netcoreapp3.1\firstLecture.runtimeconfig.dev.json
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\bin\Debug\netcoreapp3.1\firstLecture.dll
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\bin\Debug\netcoreapp3.1\firstLecture.pdb
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\obj\Debug\netcoreapp3.1\firstLecture.csprojAssemblyReference.cache
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\obj\Debug\netcoreapp3.1\firstLecture.AssemblyInfoInputs.cache
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\obj\Debug\netcoreapp3.1\firstLecture.AssemblyInfo.cs
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\obj\Debug\netcoreapp3.1\firstLecture.csproj.CoreCompileInputs.cache
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\obj\Debug\netcoreapp3.1\firstLecture.dll
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\obj\Debug\netcoreapp3.1\firstLecture.pdb
+C:\Users\emili\Рабочий стол\Study\Object-Oriented-Programming\dotnet_new_project\firstLecture\obj\Debug\netcoreapp3.1\firstLecture.genruntimeconfig.cache
