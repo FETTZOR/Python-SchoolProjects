@@ -1,3 +1,9 @@
+# Find all words in sentence that end in "a" and print them together separated by an hyphen -.
+#
+# sample input / output
+# >>> cyberpunk replica doom dota supermarket formula good bad banana
+#     replica-dota-formula-banana
+
 def a_letter_finder(sentence):
     sent = sentence.split()
     words = []
