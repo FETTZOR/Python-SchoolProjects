@@ -1,48 +1,45 @@
-# In a farming-simulator game, you can buy certain vehicles for a specific price. As a player, you want to buy the
-# most useful (i.e. the most expensive) vehicle. Here are the vehicles and their prices:
+# In a farming-simulator game, you can buy vehicles for a specific price. As a player, you want to buy the
+# most expensive vehicle. Here are the vehicles and their prices:
 #
-# Item: Price
+# Vehicle: Price
 #
-# Bicycle: 23
+# Bicycle: 500
 #
-# Pickup: 678
+# Pickup: 15000
 #
-# Light Tractor: 1296
+# Light Tractor: 35000
 #
-# Medium Tractor: 3848
+# Medium Tractor: 45000
 #
-# Heavy Tractor: 6769
+# Heavy Tractor: 55000
 #
 # Write a program that determines what is the most expensive vehicle that the user can buy with their money and how
 # many of them they can buy.
 #
-# Note that you should only find one kind of vehicle to buy (the most expensive). You don't need to mention any
-# alternative options. For example, if the user has 710 coins, your program should output 1 pickup' \ ',
-# but not 1 pickup\n30 bicycles or anything like that.
 #
 # The input format:
 #
-# The money that the user has.
+# How much money user has.
 #
 # The output format:
 #
-# How many vehicles the user can afford, for example, 20 bicycles. If the user cannot afford any vehicle, write None.
+# How many vehicles the user can afford, for example, 20 bicycles. If the user cannot afford any vehicle, write Zero.
 
 # Sample Input 1:
 #
-# 680
+# 18000
 # Sample Output 1:
 #
 # 1 pickup
 # Sample Input 2:
 #
-# 8
+# 134
 # Sample Output 2:
 #
-# None
+# Zero
 # Sample Input 3:
 #
-# 668
+# 10000
 # Sample Output 3:
 #
-# 29 bicycles
+# 20 bicycles
