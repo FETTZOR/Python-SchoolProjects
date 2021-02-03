@@ -1,0 +1,16 @@
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\bin\Debug\net5.0\userInput.exe
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\bin\Debug\net5.0\userInput.deps.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\bin\Debug\net5.0\userInput.runtimeconfig.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\bin\Debug\net5.0\userInput.runtimeconfig.dev.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\bin\Debug\net5.0\userInput.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\bin\Debug\net5.0\ref\userInput.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\bin\Debug\net5.0\userInput.pdb
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\obj\Debug\net5.0\userInput.csprojAssemblyReference.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\obj\Debug\net5.0\userInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\obj\Debug\net5.0\userInput.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\obj\Debug\net5.0\userInput.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\obj\Debug\net5.0\userInput.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\obj\Debug\net5.0\userInput.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\obj\Debug\net5.0\ref\userInput.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\obj\Debug\net5.0\userInput.pdb
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\userInput\obj\Debug\net5.0\userInput.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\bin\Debug\netcoreapp3.1\lecture_02.exe
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\bin\Debug\netcoreapp3.1\lecture_02.deps.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\bin\Debug\netcoreapp3.1\lecture_02.runtimeconfig.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\bin\Debug\netcoreapp3.1\lecture_02.runtimeconfig.dev.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\bin\Debug\netcoreapp3.1\lecture_02.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\bin\Debug\netcoreapp3.1\lecture_02.pdb
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\obj\Debug\netcoreapp3.1\lecture_02.csprojAssemblyReference.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\obj\Debug\netcoreapp3.1\lecture_02.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\obj\Debug\netcoreapp3.1\lecture_02.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\obj\Debug\netcoreapp3.1\lecture_02.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\obj\Debug\netcoreapp3.1\lecture_02.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\obj\Debug\netcoreapp3.1\lecture_02.pdb
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\lecture_02\obj\Debug\netcoreapp3.1\lecture_02.genruntimeconfig.cache
