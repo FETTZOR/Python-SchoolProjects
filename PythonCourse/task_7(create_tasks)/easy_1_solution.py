@@ -1,3 +1,7 @@
+#! /usr/bin/python3
+# original author: Emil Khaibrakhmanov
+# I the author grant the use of this code for teaching: yes
+
 # In a farming-simulator game, you can buy vehicles for a specific price. As a player, you want to buy the
 # most expensive vehicle. Here are the vehicles and their prices:
 #

@@ -1,3 +1,7 @@
+#! /usr/bin/python3
+# original author: Emil Khaibrakhmanov
+# I the author grant the use of this code for teaching: yes
+
 # You need to write a program that converts miles to kilometers.
 # In this program, you should:
 #

@@ -1,3 +1,7 @@
+#! /usr/bin/python3
+# original author: Emil Khaibrakhmanov
+# I the author grant the use of this code for teaching: yes
+
 import easy_3_solution as ez3
 import pytest
 

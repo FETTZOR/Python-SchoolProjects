@@ -1,3 +1,7 @@
+#! /usr/bin/python3
+# original author: Emil Khaibrakhmanov
+# I the author grant the use of this code for teaching: yes
+
 import hard_5_solution as hard
 import pytest
 import mock

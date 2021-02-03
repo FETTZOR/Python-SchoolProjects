@@ -1,3 +1,7 @@
+#! /usr/bin/python3
+# original author: Emil Khaibrakhmanov
+# I the author grant the use of this code for teaching: yes
+
 # Pekka decided to make a list of the groceries he needed to buy for dinner.
 # To remember their names. Pekka politely asks you to put them in the list. Read the names from the input,
 # each on a new line, and stop at exclamation mark !

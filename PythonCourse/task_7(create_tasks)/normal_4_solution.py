@@ -1,3 +1,7 @@
+#! /usr/bin/python3
+# original author: Emil Khaibrakhmanov
+# I the author grant the use of this code for teaching: yes
+
 # Find all words in sentence that end in "a" and print them together separated by an hyphen -.
 #
 # sample input / output

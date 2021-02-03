@@ -1,3 +1,7 @@
+#! /usr/bin/python3
+# original author: Emil Khaibrakhmanov
+# I the author grant the use of this code for teaching: yes
+
 # In this task you should allow students to create a new account with unique ID and password.
 #
 # Once the program starts, you should print the menu:
