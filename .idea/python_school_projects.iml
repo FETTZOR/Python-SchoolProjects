@@ -5,8 +5,10 @@
       <excludeFolder url="file://$MODULE_DIR$/PythonCourse/test_code/.pytest_cache" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (Python-SchoolProjects)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (Python-SchoolProjects)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="workspace" level="project" />
+    <orderEntry type="library" name="ROS" level="project" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />
