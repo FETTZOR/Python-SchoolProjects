@@ -34,5 +34,5 @@ data = pd.read_csv('WA_Fn-UseC_-Telco-Customer-Churn.csv')
 #       groupby(["gender", "Partner", "InternetService"]).mean())
 
 # 8
-data[["TotalCharges"]]= pd.to_numeric(data["TotalCharges"],errors='coerce')
+data[["TotalCharges"]] = pd.to_numeric(data["TotalCharges"],errors='coerce')
 data[["TotalCharges","Partner"]].groupby(["Partner"]).median()
