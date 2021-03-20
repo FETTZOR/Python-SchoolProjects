@@ -1,0 +1,16 @@
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/bin/Debug/net5.0/02-emil-khaibrakhmanov
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/bin/Debug/net5.0/02-emil-khaibrakhmanov.deps.json
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/bin/Debug/net5.0/02-emil-khaibrakhmanov.runtimeconfig.json
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/bin/Debug/net5.0/02-emil-khaibrakhmanov.runtimeconfig.dev.json
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/bin/Debug/net5.0/02-emil-khaibrakhmanov.dll
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/bin/Debug/net5.0/ref/02-emil-khaibrakhmanov.dll
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/bin/Debug/net5.0/02-emil-khaibrakhmanov.pdb
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/obj/Debug/net5.0/02-emil-khaibrakhmanov.csprojAssemblyReference.cache
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/obj/Debug/net5.0/02-emil-khaibrakhmanov.GeneratedMSBuildEditorConfig.editorconfig
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/obj/Debug/net5.0/02-emil-khaibrakhmanov.AssemblyInfoInputs.cache
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/obj/Debug/net5.0/02-emil-khaibrakhmanov.AssemblyInfo.cs
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/obj/Debug/net5.0/02-emil-khaibrakhmanov.csproj.CoreCompileInputs.cache
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/obj/Debug/net5.0/02-emil-khaibrakhmanov.dll
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/obj/Debug/net5.0/ref/02-emil-khaibrakhmanov.dll
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/obj/Debug/net5.0/02-emil-khaibrakhmanov.pdb
+/home/obsrsh/Study/oop/02-emil-khaibrakhmanov/obj/Debug/net5.0/02-emil-khaibrakhmanov.genruntimeconfig.cache

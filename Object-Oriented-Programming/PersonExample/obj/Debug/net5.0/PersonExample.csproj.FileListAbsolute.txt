@@ -1,0 +1,16 @@
+/home/obsrsh/Study/oop/PersonExample/bin/Debug/net5.0/PersonExample
+/home/obsrsh/Study/oop/PersonExample/bin/Debug/net5.0/PersonExample.deps.json
+/home/obsrsh/Study/oop/PersonExample/bin/Debug/net5.0/PersonExample.runtimeconfig.json
+/home/obsrsh/Study/oop/PersonExample/bin/Debug/net5.0/PersonExample.runtimeconfig.dev.json
+/home/obsrsh/Study/oop/PersonExample/bin/Debug/net5.0/PersonExample.dll
+/home/obsrsh/Study/oop/PersonExample/bin/Debug/net5.0/ref/PersonExample.dll
+/home/obsrsh/Study/oop/PersonExample/bin/Debug/net5.0/PersonExample.pdb
+/home/obsrsh/Study/oop/PersonExample/obj/Debug/net5.0/PersonExample.csprojAssemblyReference.cache
+/home/obsrsh/Study/oop/PersonExample/obj/Debug/net5.0/PersonExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/obsrsh/Study/oop/PersonExample/obj/Debug/net5.0/PersonExample.AssemblyInfoInputs.cache
+/home/obsrsh/Study/oop/PersonExample/obj/Debug/net5.0/PersonExample.AssemblyInfo.cs
+/home/obsrsh/Study/oop/PersonExample/obj/Debug/net5.0/PersonExample.csproj.CoreCompileInputs.cache
+/home/obsrsh/Study/oop/PersonExample/obj/Debug/net5.0/PersonExample.dll
+/home/obsrsh/Study/oop/PersonExample/obj/Debug/net5.0/ref/PersonExample.dll
+/home/obsrsh/Study/oop/PersonExample/obj/Debug/net5.0/PersonExample.pdb
+/home/obsrsh/Study/oop/PersonExample/obj/Debug/net5.0/PersonExample.genruntimeconfig.cache

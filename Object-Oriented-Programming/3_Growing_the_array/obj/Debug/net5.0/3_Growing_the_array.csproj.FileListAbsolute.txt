@@ -1,0 +1,16 @@
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\obj\Debug\net5.0\3_Growing_the_array.csprojAssemblyReference.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\obj\Debug\net5.0\3_Growing_the_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\obj\Debug\net5.0\3_Growing_the_array.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\obj\Debug\net5.0\3_Growing_the_array.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\obj\Debug\net5.0\3_Growing_the_array.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\bin\Debug\net5.0\3_Growing_the_array.exe
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\bin\Debug\net5.0\3_Growing_the_array.deps.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\bin\Debug\net5.0\3_Growing_the_array.runtimeconfig.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\bin\Debug\net5.0\3_Growing_the_array.runtimeconfig.dev.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\bin\Debug\net5.0\3_Growing_the_array.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\bin\Debug\net5.0\ref\3_Growing_the_array.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\bin\Debug\net5.0\3_Growing_the_array.pdb
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\obj\Debug\net5.0\3_Growing_the_array.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\obj\Debug\net5.0\ref\3_Growing_the_array.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\obj\Debug\net5.0\3_Growing_the_array.pdb
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\3_Growing_the_array\obj\Debug\net5.0\3_Growing_the_array.genruntimeconfig.cache

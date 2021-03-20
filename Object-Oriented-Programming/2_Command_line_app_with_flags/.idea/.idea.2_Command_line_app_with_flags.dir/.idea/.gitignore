@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.2_Command_line_app_with_flags.iml
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\.idea\.idea.2_Command_line_app_with_flags.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

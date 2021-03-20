@@ -1,0 +1,16 @@
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\bin\Debug\net5.0\2_Command_line_app_with_flags.exe
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\bin\Debug\net5.0\2_Command_line_app_with_flags.deps.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\bin\Debug\net5.0\2_Command_line_app_with_flags.runtimeconfig.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\bin\Debug\net5.0\2_Command_line_app_with_flags.runtimeconfig.dev.json
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\bin\Debug\net5.0\2_Command_line_app_with_flags.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\bin\Debug\net5.0\ref\2_Command_line_app_with_flags.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\bin\Debug\net5.0\2_Command_line_app_with_flags.pdb
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\obj\Debug\net5.0\2_Command_line_app_with_flags.csprojAssemblyReference.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\obj\Debug\net5.0\2_Command_line_app_with_flags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\obj\Debug\net5.0\2_Command_line_app_with_flags.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\obj\Debug\net5.0\2_Command_line_app_with_flags.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\obj\Debug\net5.0\2_Command_line_app_with_flags.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\obj\Debug\net5.0\2_Command_line_app_with_flags.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\obj\Debug\net5.0\ref\2_Command_line_app_with_flags.dll
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\obj\Debug\net5.0\2_Command_line_app_with_flags.pdb
+C:\Users\emili\OneDrive\Documents\GitHub\Python-SchoolProjects\Object-Oriented-Programming\2_Command_line_app_with_flags\obj\Debug\net5.0\2_Command_line_app_with_flags.genruntimeconfig.cache
